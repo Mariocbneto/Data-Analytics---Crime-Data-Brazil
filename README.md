@@ -31,6 +31,8 @@ The goal of this project is to:
 ---
 
 ## Outputs
+[![Heatmap Preview](outputs/heatmap_preview.png)](https://mariocbneto.github.io/Data-Analytics---Crime-Data-Brazil/)
+
 
 - [Heatmap 2016](outputs/heatmap_2016_10000.html)
 - [Heatmap 2011](outputs/heatmap_2011_2_10000.html)
