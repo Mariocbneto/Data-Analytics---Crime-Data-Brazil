@@ -38,5 +38,5 @@ The goal of this project is to:
 - [Heatmap 2011](outputs/heatmap_2011_2_10000.html)
 - [Crime distribution 2016](outputs/distribuicaoCrimes2016.png)
 - [Crime distribution 2011](outputs/distribuicaoCrimes2011.png)
-- [Comparison 2011 vs 2016](outputs/comparacao_todos_crimes_2011_2016.png)
+- [Comparison 2011 vs 2016](outputs/comparacao_todos_crimes_2011_2016_milhares.png)
 
