@@ -1,4 +1,4 @@
-# Data-Analytics Crime Data Brazil
+# Data Analytics Crime Data Brazil
 
 This project explores crime data in Brazil, focusing on the years 2011 and 2016.  
 It includes data cleaning, visualization with heatmaps, and analysis of crime trends over time.
@@ -40,3 +40,13 @@ The goal of this project is to:
 - [Crime distribution 2011](outputs/distribuicaoCrimes2011.png)
 - [Comparison 2011 vs 2016](outputs/comparacao_todos_crimes_2011_2016_milhares.png)
 
+---
+
+## Tools and Technologies Used  
+
+- **Python** – data processing and analysis  
+- **Pandas** – data manipulation and cleaning  
+- **Matplotlib** – data visualization (bar charts and comparisons)  
+- **Folium** – geospatial visualization (heatmaps)  
+- **Jupyter Notebook** – interactive coding and exploration  
+- **Git & GitHub** – version control and project sharing  
